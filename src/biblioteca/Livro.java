@@ -10,4 +10,11 @@ public class Livro {
 	public void setTitulo(String titulo) {
 		this.titulo = titulo;
 	}
+	
+	public void emprestar() {
+		
+	}
+	public void devolver() {
+		
+	}
 }
